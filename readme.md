@@ -44,6 +44,7 @@
     "tags": ["スポーツ", "OpenPose", "実験"]
   }
 ]
+```
 
 4.GitHub Pages を有効にします（Settings → Pages → main branch → / (root)）
 
