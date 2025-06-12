@@ -40,5 +40,11 @@
         "path": "pdf/情報通信産業論.pdf",
         "description": "情報通信産業論レポート",
         "tags": ["情報通信産業論", "レポート", "中央大学"]
+      },
+      {
+        "title": "OR演習発表",
+        "path": "pdf/OR演習.pdf",
+        "description": "OR演習発表資料",
+        "tags": ["OR", "演習", "発表","OR演習"]
       }
   ]
